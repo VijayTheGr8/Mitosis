@@ -12,3 +12,5 @@
   * You must click them to stop them
 * There will be a limit of __100__ cells
   * Mitosis will stop as the environment cannot handle any more (you will see this warning in the console of your browser)
+
+![](images/mitosis.gif)
