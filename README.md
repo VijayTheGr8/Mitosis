@@ -10,7 +10,7 @@
 * The cells are constantly __growing__ but stop at a radius of 100
   * At this point, they will start flashing, indicating that they have turned cancerous 
   * You must click them to stop them
-* There will be a limit of __100__ cells
+* There will be a limit of __50__ cells
   * Mitosis will stop as the environment cannot handle any more (you will see this warning in the console of your browser)
 
 ![](images/mitosis.gif)
