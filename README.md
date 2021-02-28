@@ -1,7 +1,7 @@
-# Mitosis
+# Cancer
 
 ## Overview
-"Mitosis" is a p5.js project I created to replicate how mitosis behaves in the environment. This animation shows how mitosis is necessary for proper life and how cancerous cells form when mitosis is not performing as intended.
+"Cancer" is a p5.js project I created to replicate how cancer behaves in the environment. This animation shows how cell regulation is necessary for proper life and how cancerous cells form when this is not the case.
 
 ## Features
 * __Clicking__ will divide the cells into two daughter cells
